@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chhavi Yadav / Chhavi's academic website"
+title                    : "Chhavi's academic website"
 title_separator          : "-"
 name                     : &name "Chhavi Yadav"
 description              : &description "PhD student at UCSD"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chhavi"
+  name             : "Chhavi Yadav"
   avatar           : "profile.png"
   bio              : "PhD Student at UCSD"
   location         : "USA"
